@@ -30,7 +30,7 @@ HIST_STAMPS="dd/ùmm/yyyy"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(osx battery brew brew-cask vagrant git git-flow git-extras git-prompt aws node npm symfony2 systemadmin)
+plugins=(osx battery brew brew-cask vagrant ssh-agent git git-flow git-extras git-prompt aws node npm symfony2 systemadmin)
 
 # User configuration
 
